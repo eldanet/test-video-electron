@@ -18,6 +18,7 @@ npm run electron:build
 ### First run
 Wait for file to download locally
 
-Click on remote file => everything works as expected and video loops.
-Click on local file => app crashes approximatively after 1 minute
+### App launched
+- Click on remote file => everything works as expected and video loops.
+- Click on local file => app crashes approximatively after 1 minute
 
